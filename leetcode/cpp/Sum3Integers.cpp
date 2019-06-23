@@ -1,7 +1,7 @@
 //
 // Created by lenovo on 2019/6/23.
 //
-#include <cstdio>
+
 #include "Sum3Integers.h"
 using namespace std;
 // Author : ljt
